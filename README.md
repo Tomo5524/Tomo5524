@@ -19,7 +19,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;  
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -43,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/tomotakebuchi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi%-blue?style=flat-square&logo=linkedin"></a>
+<a href="http://www.tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/tomotakebuchi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.Llinkedin.com/in/tomoki-takebuchi-501065135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi%-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
