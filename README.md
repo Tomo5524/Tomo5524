@@ -41,7 +41,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="http://www.tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-tomotakebuchi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi-blue?style=flat-square&logo=linkedin"></a>
 </p>
