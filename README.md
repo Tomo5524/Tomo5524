@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="http://www.tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/tomotakebuchi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.Llinkedin.com/in/tomoki-takebuchi-501065135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
