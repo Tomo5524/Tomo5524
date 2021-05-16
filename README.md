@@ -43,8 +43,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="http://tomotakebuchi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/tomotakebuchi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%Takebuchi%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
