@@ -47,12 +47,9 @@
 </p>
 
 ## The wise one has spoken💬
-<p><small>random quote</small></p>
+<sup>random quote</sup>
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-
-⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
-
-
 
 <!--
 ### Hi there 👋
@@ -69,4 +66,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
 -->
