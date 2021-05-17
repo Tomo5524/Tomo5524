@@ -2,9 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; A self-taught Full Stack web developer exploring new technologies and passionate developing software solutions and quick hacks.
+- 🌱 &nbsp; Learning more about data structures, algorithms and performance optimization.
+
+<!--
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+-->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
