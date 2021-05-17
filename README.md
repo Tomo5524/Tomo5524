@@ -46,7 +46,7 @@
 <a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-## The wise one has spoken💬
+## The wise one has spoken 💬
 <sup>random quote</sup>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
