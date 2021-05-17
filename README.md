@@ -46,6 +46,8 @@
 <a href="https://www.linkedin.com/in/tomoki-takebuchi-501065135"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomo%20Takebuchi-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
 
 
