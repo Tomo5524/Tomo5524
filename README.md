@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A self-taught Full Stack web developer exploring new technologies and passionate developing software solutions and quick hacks.
+- 🤔 &nbsp; A self-taught Full Stack web developer exploring new technologies and passionate developing web applications and software solutions.
 - 🌱 &nbsp; Learning more about data structures, algorithms and performance optimization.
 
 <!--
