@@ -47,6 +47,7 @@
 </p>
 
 ## The wise one has spoken💬
+<p><small>random quote</small></p>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
