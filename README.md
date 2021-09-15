@@ -1,8 +1,8 @@
-<h2>Hey there👋</h2>
+<h2>Hi there👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A Full Stack web developer exploring new technologies and passionate developing web applications and software solutions.
+- 🤔 &nbsp; Full Stack web developer exploring new technologies and passionate developing web applications and software solutions.
 - 🌱 &nbsp; Learning more about data structures, algorithms and performance optimization.
 
 <!--
