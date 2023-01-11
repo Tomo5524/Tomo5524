@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Full Stack web developer exploring new technologies and passionate developing web applications and software solutions.
-- 🌱 &nbsp; Learning more about data structures, algorithms and performance optimization.
+- 🌱 &nbsp; Learning more about data structures, algorithm and performance optimization.
 
 <!--
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
