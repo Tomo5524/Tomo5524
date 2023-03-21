@@ -66,3 +66,8 @@ Here are some ideas to get you started:
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
 -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tomo5524&theme=city_light&hide_border=false)<br/>
