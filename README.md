@@ -29,11 +29,6 @@
 
 <br/>
 
-<a href="https://github.com/Tomo5524">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -68,6 +63,10 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
+<a href="https://github.com/Tomo5524">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=buefy&layout=compact" />
+</a>
 ![](https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tomo5524&theme=city_light&hide_border=false)<br/>
