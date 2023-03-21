@@ -28,6 +28,17 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
 <br/>
+<!-- <a href="https://github.com/Tomo5524">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=buefy&layout=compact" />
+</a> -->
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=buefy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tomo5524&theme=city_light&hide_border=false)<br/>
+
 
 <br/>
 
@@ -61,12 +72,3 @@ Here are some ideas to get you started:
 
 ⭐️ Thanks to [AVS1508](https://github.com/AVS1508)
 -->
-
-# 📊 GitHub Stats:
-<a href="https://github.com/Tomo5524">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=buefy&layout=compact" />
-</a>
-![](https://github-readme-stats.vercel.app/api?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo5524&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tomo5524&theme=city_light&hide_border=false)<br/>
