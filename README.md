@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full Stack web developer exploring new technologies and passionate developing web applications and software solutions.
+- 🤔 &nbsp; Full Stack web developer exploring new technologies and passionate developing web applications, AGI software solutions.
 - 🌱 &nbsp; Learning more about data structures, algorithm and performance optimization.
 
 <!--
